@@ -1,0 +1,9 @@
+[normal_loss]
+arousal feature:  ['g_SC_diff_freq_pk', 'g_DWTskew2', 'g_SCSR_detrend_avg_riseT', 'g_SC_diff_dur_pk', 'g_DWTskew0', 'g_snddiff_proportion_neg_diff', 'g_SC_diff_min_sigpk', 'g_SCSR_diff_dur_pk', 'g_fstdiff_proportion_neg_diff', 'g_DWTavgP2', 'g_SCVSR_window_avg_riseT', 'g_ori_number_local_max', 'g_fstdiff_number_local_min', 'g_SCSR_detrend_freq_pk', 'g_snddiff_number_local_min', 'g_SC_diff_minpk', 'g_SC_diff_max_sigpk', 'g_SCVSR_diff_avg_riseT', 'g_DWTkurt2', 'g_DWTskew1']
+
+valence feature:  ['g_SCVSR_detrend_avg_sigpk', 'g_SCSR_detrend_min_sigpk', 'g_ori_kurt', 'g_DWTskew0', 'g_SC_window_dur_pk', 'g_SC_window_min_sigpk', 'g_SCSR_diff_max_sigpk', 'g_SC_window_freq_pk', 'g_DWTkurt1', 'g_fstdiff_mean_neg_diff', 'g_SCVSR_detrend_dur_pk', 'g_SCVSR_detrend_min_sigpk', 'g_SCVSR_detrend_max_sigpk', 'g_SC_window_avg_riseT', 'g_DWTkurt0', 'g_SC_diff_max_sigpk', 'g_SCVSR_diff_min_sigpk', 'g_DWTskew1', 'g_SC_window_minpk', 'g_SCVSR_detrend_minpk']
+
+[loss]
+arousal feature:  ['g_SCVSR_diff_avg_riseT', 'g_inf_ent', 'g_SCSR_detrend_avg_riseT', 'g_SC_detrend_dur_pk', 'g_SC_window_avg_riseT', 'g_DWTskew0', 'g_snddiff_proportion_neg_diff', 'g_ori_mean_fst_diff', 'g_SCSR_diff_minpk', 'g_DWTskew2', 'g_SC_diff_dur_pk', 'g_SCVSR_detrend_avg_riseT', 'g_SC_diff_min_sigpk', 'g_snddiff_number_local_min', 'g_SCSR_detrend_dur_pk', 'g_ori_kurt', 'g_fstdiff_Skew', 'g_SCSR_window_minpk', 'g_SCSR_diff_dur_pk', 'g_DWTkurt0']
+
+valence feature:  ['g_SCVSR_detrend_min_sigpk', 'g_SC_window_dur_pk', 'g_DWTkurt0', 'g_ori_kurt', 'g_SCSR_diff_dur_pk', 'g_SC_detrend_dur_pk', 'g_SC_detrend_avg_riseT', 'g_SCVSR_detrend_dur_pk', 'g_SC_window_min_sigpk', 'g_SCSR_detrend_avg_riseT', 'g_DWTkurt2', 'g_DWTskew1', 'g_inf_ent', 'g_DWTskew0', 'g_SCVSR_window_min_sigpk', 'g_SCVSR_diff_avg_riseT', 'g_SCSR_diff_avg_riseT', 'g_SCSR_window_avg_riseT', 'g_SCSR_diff_maxpk', 'g_SCVSR_detrend_minpk']

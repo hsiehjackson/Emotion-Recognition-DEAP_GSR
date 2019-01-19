@@ -1,0 +1,33 @@
+"Participant_id","Age","Gender","Handedness","Vision","Vision Aid","Education","Alcohol consumption","Coffee consumption","Black/Green tea consumption","Tobacco consumption","Other drug/medication consumption (optional)","Other drug consumption (optional)","Attention/Neurological/Psychiatric syndroms","Hours of sleep last night","Normal hours of sleep","Level of Alertness","Consent to distribute physiological recordings","Consent to publish audio-visual recordings","Head circumference (cm)","Distance Nasion-Inion (cm)","Distance left - right jaw hinge (cm)"
+"S01",31,"Male","Right","Normal","None","MA or MSc or Ir","Never","Today, Never","Never","Today, Regularly",,,,"7","8","Medium",1,0,60,37,38
+"S02",24,"Female","Right","Normal","Contact lenses","BA or BSc or Ing","Never","Regularly","Yesterday","Never","Never",,,"7","8","Medium",1,1,57,39,38
+"S03",19,"Female","Right","Corrected to normal","Glasses","High school","Regularly","Never","Regularly","Never","Never",,,"7.5","6-8","High",1,1,54,36,38
+"S04",24,"Female","Right","Corrected to normal","Glasses","MA or MSc or Ir","Never","Yesterday","Regularly","Never","Never",,,"7","7-8","Medium",1,1,57,40,40
+"S05",24,"Male","Right","Corrected to normal","Glasses","MA or MSc or Ir","Never","Never","Never","Never","Never",,,"9","8","Medium",1,0,61,40,43
+"S06",23,"Male","Right","Normal","None","BA or BSc or Ing","Regularly","Regularly","Never","Never","Never",,,"10","8-9","Medium",1,1,57,39,37
+"S07",31,"Male","Right","Acceptable uncorrected","Glasses","MA or MSc or Ir","Yesterday","Never","Never","Never","Today","Antistaminic",,"9","7.5","Medium",1,1,55,39,43
+"S08",22,"Female","Right","Normal","None","BA or BSc or Ing","Regularly","Never","Yesterday","Never","Never",,,"9","8","Medium",1,1,57,39,41
+"S09",25,"Female","Right","Corrected to normal","Contact lenses","BA or BSc or Ing","Regularly","Regularly","Yesterday, Regularly","Never","Never",,,"8","8","Medium",1,1,53,39,43
+"S10",31,"Female","Right","Corrected to normal","glasses in car only","PhD ","Yesterday, Regularly","Today, Yesterday, Regularly","Regularly","Never","Never",,,"6.5","7","Medium",1,0,57,39,38
+"S11",27,"Female","Right","Normal","None","BA or BSc or Ing","Never","Today","Regularly","Never","Never",,,"7","7","High",1,1,55,"XX","XX"
+"S12",37,"Male","Right","Corrected to normal","Glasses","MA or MSc or Ir","Never","Yesterday","Never","Never","Never",,,"8","8","High",1,0,50,39,44
+"S13",24,"Female","Right","Normal","None","BA or BSc or Ing","Yesterday, Regularly","Yesterday","Today, Regularly","Never","Never",,,"7.5","8","Medium",1,1,55,37,41
+"S14",27,"Female","Right","Corrected to normal","Glasses","MA or MSc or Ir","Regularly","Never","Yesterday","Never","Never",,,"6","7","Medium",1,1,57,37,39
+"S15",22,"Female","Right","Acceptable uncorrected","None","High school","Yesterday","Never","Regularly","Never","Never",,,"7","6","Medium",1,1,54,37,37
+"S16",28,"Male","Right","Corrected to normal","Glasses","BA or BSc or Ing","Never","Regularly","Today, Regularly","Today, Regularly","Regularly",,,"6","6-8","Medium",1,1,57,39,41
+"S17",25,"Male","Right","Normal","None","MA or MSc or Ir","Regularly","Yesterday, Regularly","Yesterday, Regularly","Never","Never",,,"7","7","Medium",1,0,59,41,37
+"S18",29,"Male","Right","Normal","None","MA or MSc or Ir","Regularly","Never","Yesterday, Regularly","Never","Never",,,"7","8","Medium",1,1,58,39,41
+"S19",27,"Male","Right","Corrected to normal","Contact lenses","MA or MSc or Ir","Regularly","Never","Yesterday","Never","Never",,,"7","7","Medium",1,1,57,39,39
+"S20",25,"Male","Right","Corrected to normal","Glasses","BA or BSc or Ing","Never","Never","Never","Never","Regularly","Infliximab",,"8","8","Low",1,1,59,43,39
+"S21",30,"Male","Right","Corrected to normal","Glasses","MA or MSc or Ir","Regularly","Never","Regularly","Never","Never",,,"6","5-6","Medium",1,1,59,40,39
+"S22",28,"Female","Right","Corrected to normal","Glasses","MA or MSc or Ir","Regularly","Yesterday, Regularly","Yesterday, Regularly","Never","Today, Regularly","Asthma spray",,"7","7","High",1,0,58,39,42
+"S23",27,"Male","Right","Normal","None","PhD ","Regularly","Never","Never","Never","Never",,,"8","8","High",1,"N/A",57,35,38
+"S24",28,"Female","Left","Normal","None","MA or MSc or Ir","Regularly","Regularly","Regularly","Never","Never",,,"7","7-8","Medium",1,"N/A",55,34,33
+"S25",26,"Female","Right","Corrected to normal","None","MA or MSc or Ir","Regularly","Never","Regularly","Never","Yesterday","pain killer",,"8","8","Medium",1,"N/A",54,34,33
+"S26",36,"Male","Right",,,,,,,,,,,,,,1,"N/A",,,
+"S27",35,"Male","Right","Corrected to normal","Glasses","MA or MSc or Ir","Regularly","Yesterday","Regularly","Never",,,,"9","7","Medium",1,"N/A",61,33,33
+"S28",24,"Male","Right","Normal","None","MA or MSc or Ir","Never","Regularly","Never","Never","Never",,,"7","8","Medium",1,"N/A",57.5,38,38
+"S29",24,"Male","Right","Normal","None","BA or BSc or Ing","Regularly","Today, Yesterday, Regularly","Yesterday","Never","Never",,,"8","8","Medium",1,"N/A",58,36,31
+"S30",33,"Male","Right","Normal","None","MA or MSc or Ir","Never","Never","Never","Never","Never",,,"9","9","Medium",1,"N/A",58,34,35
+"S31",21,"Female","Right","Normal","None","BA or BSc or Ing","Yesterday","Today","Never","Never","Never",,,"7","7","Medium",1,"N/A",56,35,32
+"S32",33,"Female","Right","Corrected to normal","Contact lenses","MA or MSc or Ir","Yesterday, Regularly","Never","Yesterday, Regularly","Never","Yesterday, Regularly",,"Migraine","7","7","Medium",1,"N/A",55.5,32,32

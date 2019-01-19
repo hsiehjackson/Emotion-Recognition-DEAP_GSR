@@ -1,0 +1,6 @@
+arousal
+o.1df.ro.negdf,o.t.mdf,o.2df.num.argma,o.p.mdf,o.t.IRf,o.2df.sk,o.DWT.sk.H,o.DWT.me.P.L,o.p.IRf,o.DWT.std.L,o.1df.ku,o.2df.me.2df,o.DWT.InEn.M,o.std
+15,8,8,6,5,3,3,3,2,2,1,1,1,1
+valence
+o.MF.ro,o.ku,o.p.mdf,o.DWT.sk.H,o.t.mef,o.t.mdf,o.p.IRf,o.VLF.ro,o.DWT.ku.H,o.1df.num.argma,o.2df.num.argma,o.2df.ro.negdf,o.VHF.mi,o.DWT.ApEn.M,o.DWT.InEn.H,o.DWT.me.P.M,o.rms.20,o.t.mxf,o.DWT.ApEn.L
+12,9,8,7,4,2,2,2,2,2,2,2,1,1,1,1,1,1,1
